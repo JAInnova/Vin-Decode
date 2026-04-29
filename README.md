@@ -1,4 +1,4 @@
-[vin-scanner-widget index.html](https://github.com/user-attachments/files/27205773/vin-scanner-widget.html)
+[index.html](https://github.com/user-attachments/files/27205773/vin-scanner-widget.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
